@@ -1,0 +1,6 @@
+the minimum min_element is : 1
+the maximum element is : 5
+the total number of sum : 15
+the freq of 3 is 1
+ 2 is present 
+5 4 3 2 1 
