@@ -1,5 +1,8 @@
 ##### Windows
 # Windows thumbnail cache files
+.vscode
+*.exe
+/*.exe
 Thumbs.db
 Thumbs.db:encryptable
 ehthumbs.db
